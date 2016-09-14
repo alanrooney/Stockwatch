@@ -1,0 +1,180 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Ray\My Documents\Apps\StockWatch
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=
+C:\WINDOWS\system32\vsflex8l.ocx=
+C:\WINDOWS\system32\UniKey.dll=
+C:\Program Files\TestOneClick\MyCommandButton.ocx=
+C:\WINDOWS\system32\cdosys.dll=
+C:\WINDOWS\system32\wininet.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MyCommandButton.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Standard Setup Package 1|Files Added]
+c:\documents and settings\ray\my documents\apps\stockwatch\stockwatch.mdb=
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\documents and settings\ray\my documents\apps\stockwatch\stockwatch.mdb=
+c:\windows\system32\unikey.dll=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\system32\vsflex8l.ocx=Yes
+C:\Program Files\Microsoft Office\OFFICE11\MSWORD.OLB=Yes
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\Program Files\vbSkinner Pro 2\vbskpro2.ocx=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch\StockWatch.mdb=No
+C:\WINDOWS\system32\cdosys.dll=Yes
+C:\WINDOWS\system32\MSMAPI32.OCX=Yes
+C:\WINDOWS\system32\MyCommandButton.ocx=Yes
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver5.3\StockWatch Ver545.exe=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver3.0\StockWatch.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\UniKey.dll=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\vsflex8l.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\MSWORD.OLB=$(WinSysPath)
+C:\Program Files\Microsoft Office\OFFICE11\MSACC.OLB=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\Program Files\vbSkinner Pro 2\vbskpro2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MyCommandButton.ocx=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch\StockWatch.mdb=$(AppPath)
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver3.3\StockWatch.exe=$(AppPath)
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver3.3\StockWatch Ver307.exe=$(AppPath)
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver3.3\StockWatch Ver308.exe=$(AppPath)
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver4.0\StockWatch Ver311.exe=$(AppPath)
+C:\WINDOWS\system32\cdosys.dll=$(WinSysPath)
+C:\Program Files\TestOneClick\MyCommandButton.ocx=$(WinSysPath)
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch\StockWatch Ver409.exe=$(AppPath)
+C:\WINDOWS\system32\wininet.dll=$(WinSysPath)
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver4.2DUAL\StockWatch420.exe=$(AppPath)
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver4.4\StockWatch Ver441.exe=$(AppPath)
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver4.4\StockWatch Ver454.exe=$(AppPath)
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver5.2\StockWatch Ver524.exe=$(AppPath)
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver5.3\StockWatch Ver545.exe=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver3.0\StockWatch.exe=No
+C:\WINDOWS\system32\MyCommandButton.ocx=Yes
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch\StockWatch.mdb=No
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver3.3\StockWatch.exe=No
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver3.3\StockWatch Ver307.exe=No
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver3.3\StockWatch Ver308.exe=No
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver4.0\StockWatch Ver311.exe=No
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch\StockWatch Ver409.exe=No
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver4.2DUAL\StockWatch420.exe=Yes
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver4.4\StockWatch Ver441.exe=Yes
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver4.4\StockWatch Ver454.exe=No
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver5.2\StockWatch Ver524.exe=No
+C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver5.3\StockWatch Ver545.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=StockWatch
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=StockWatch
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|StockWatch]
+Icon1=StockWatch.exe
+Title1=StockWatch
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\Documents and Settings\Ray\My Documents\Apps\StockWatch
+ProjectFolder=C:\Documents and Settings\Ray\My Documents\Apps\StockWatch Ver5.3
+ServerSideCab=
+File1=C:\Documents and Settings\Ray\My Documents\Apps\StockWatch\setup.exe
+File2=C:\Documents and Settings\Ray\My Documents\Apps\StockWatch\Setup.Lst
+File3=C:\Documents and Settings\Ray\My Documents\Apps\StockWatch\StockWatch Ver545.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
